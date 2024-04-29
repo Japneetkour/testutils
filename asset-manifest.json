@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Japneetkour.github.io/testutils/static/css/main.f855e6bc.css",
+    "main.js": "/Japneetkour.github.io/testutils/static/js/main.0e9331d7.js",
+    "static/js/453.99204af4.chunk.js": "/Japneetkour.github.io/testutils/static/js/453.99204af4.chunk.js",
+    "index.html": "/Japneetkour.github.io/testutils/index.html",
+    "main.f855e6bc.css.map": "/Japneetkour.github.io/testutils/static/css/main.f855e6bc.css.map",
+    "main.0e9331d7.js.map": "/Japneetkour.github.io/testutils/static/js/main.0e9331d7.js.map",
+    "453.99204af4.chunk.js.map": "/Japneetkour.github.io/testutils/static/js/453.99204af4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0e9331d7.js"
+  ]
+}
