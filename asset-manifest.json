@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Japneetkour.github.io/testutils/static/css/main.f855e6bc.css",
-    "main.js": "/Japneetkour.github.io/testutils/static/js/main.0e9331d7.js",
-    "static/js/453.99204af4.chunk.js": "/Japneetkour.github.io/testutils/static/js/453.99204af4.chunk.js",
-    "index.html": "/Japneetkour.github.io/testutils/index.html",
-    "main.f855e6bc.css.map": "/Japneetkour.github.io/testutils/static/css/main.f855e6bc.css.map",
-    "main.0e9331d7.js.map": "/Japneetkour.github.io/testutils/static/js/main.0e9331d7.js.map",
-    "453.99204af4.chunk.js.map": "/Japneetkour.github.io/testutils/static/js/453.99204af4.chunk.js.map"
+    "main.css": "/testutils/static/css/main.f855e6bc.css",
+    "main.js": "/testutils/static/js/main.a7e6968f.js",
+    "static/js/453.99204af4.chunk.js": "/testutils/static/js/453.99204af4.chunk.js",
+    "index.html": "/testutils/index.html",
+    "main.f855e6bc.css.map": "/testutils/static/css/main.f855e6bc.css.map",
+    "main.a7e6968f.js.map": "/testutils/static/js/main.a7e6968f.js.map",
+    "453.99204af4.chunk.js.map": "/testutils/static/js/453.99204af4.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.0e9331d7.js"
+    "static/js/main.a7e6968f.js"
   ]
 }
